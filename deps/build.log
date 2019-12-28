@@ -1,0 +1,12 @@
+ERROR: LoadError: ArgumentError: Package Pkg not found in current path:
+- Run `import Pkg; Pkg.add("Pkg")` to install the Pkg package.
+
+Stacktrace:
+ [1] require(::Module, ::Symbol) at .\loading.jl:887
+ [2] include at .\boot.jl:328 [inlined]
+ [3] include_relative(::Module, ::String) at .\loading.jl:1105
+ [4] include(::Module, ::String) at .\Base.jl:31
+ [5] include(::String) at .\client.jl:424
+ [6] top-level scope at none:5
+in expression starting at C:\myLearningResources\julia\projectRepository\itemSvc\deps\build.jl:3
+Building itemSvc project...
