@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/kawadesumit/item-service.svg?branch=master)](https://travis-ci.com/kawadesumit/item-service)
+
 # Item Service
 
 Item Service
