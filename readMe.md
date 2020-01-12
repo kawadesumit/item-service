@@ -4,7 +4,7 @@ Item Service
 
 ## Overview
 
-Item Service built using julia language .
+Item Service built using julia language. hurray!
 
 ## Reference
 
@@ -13,3 +13,5 @@ Item Service built using julia language .
 3. [Juno installation](http://docs.junolab.org/latest/man/installation/)
 4. [Markdown syntax](https://www.markdownguide.org/basic-syntax/#links)
 5. [Julia DB](https://juliadb.org/)
+6. [JSON2](https://github.com/quinnj/JSON2.jl)
+7. [HTTP](https://github.com/JuliaWeb/HTTP.jl)
