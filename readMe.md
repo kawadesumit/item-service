@@ -4,7 +4,7 @@ Item Service
 
 ## Overview
 
-Item Service built using julia language .
+Item Service built using julia language.
 
 ## Reference
 
